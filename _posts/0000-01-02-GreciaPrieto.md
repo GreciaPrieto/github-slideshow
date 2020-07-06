@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Un gran poder conlleva una gran responsabilidad."
 
 ---
 
